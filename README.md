@@ -1,5 +1,5 @@
 # -Howto-setup-your-first-web-server
-Use three simple scripts to install services (programs) needed to run a VPS, virtual or dedicated web server.
+Use three simple scripts to install services (programs) needed to run a VPS, virtual or dedicated web server, current Apache 2 and php 5 or 7.
 
 I do want to note this is intended to be geared towards Ubuntu or similar debian based Operating Systems with the intent of providing a framework for getting set up to host your own web sites. That is, whether dedicated or virtual, the user already has operating system space within a namespace and dns zone that will allow them to host their own web sites.
 
